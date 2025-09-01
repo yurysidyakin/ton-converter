@@ -38,10 +38,10 @@ git clone https://github.com/yurysidyakin/ton-converter.git
 cd ton-converter
 
 # Сделайте скрипт исполняемым
-chmod +x tonrub.sh
+chmod +x ton-converter.sh
 
 # Опционально: скопируйте в директорию PATH для глобального доступа
-sudo cp tonrub.sh /usr/local/bin/tonrub
+sudo cp ton-converter.sh /usr/local/bin/ton-converter
 ```
 
 ## 💻 Использование
